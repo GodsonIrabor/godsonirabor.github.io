@@ -1,9 +1,0 @@
-# Ignore the Python virtual environment
-venv/
-.venv/
-
-# Ignore local python runtime caches
-__pycache__/
-*.pyc
-
-# Ignore  data cache tracking files
